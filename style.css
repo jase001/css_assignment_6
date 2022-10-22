@@ -1,0 +1,32 @@
+body{
+    background-color:gray ;
+    
+    
+}
+
+.container{
+    width: 300px;
+    height: 400px;
+    background-color:wheat ;
+    border-radius: 12px;
+    margin: 0% auto;
+    margin-top: 4%;
+    display: flex;
+    padding-top: 2%;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+div img  {
+    width: 85%;
+    background-color: blue;
+    height: 40vh;
+    border-radius: 12px;
+}
+
+.text{
+    width: 85%;
+   text-align: center;
+}
+
